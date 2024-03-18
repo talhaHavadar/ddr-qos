@@ -1,0 +1,5 @@
+xlnx-ddr-qos (2023.2-1) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Talha Can Havadar <talha.can.havadar@canonical.com>  Tue, 19 Mar 2024 01:15:32 +0900

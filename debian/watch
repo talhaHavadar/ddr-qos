@@ -1,0 +1,5 @@
+version=4
+opts="searchmode=plain,\
+filenamemangle=s%.*/xilinx_v?@ANY_VERSION@%@PACKAGE@-$1.tar.gz%" \
+https://api.github.com/repos/xilinx/ddr-qos/tags?per_page=50 \
+https://api.github.com/repos/[^/]+/[^/]+/tarball/refs/tags/xilinx_v?@ANY_VERSION@
