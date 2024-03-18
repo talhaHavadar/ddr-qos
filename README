@@ -1,0 +1,33 @@
+/******************************************************************************
+* Copyright (C) 2021 Xilinx, Inc. All rights reserved.
+* SPDX-License-Identifier: Apache-2.0
+******************************************************************************/
+
+ddr-qos
+============
+
+Xilinx copyright 2021
+
+This application is to set QOS value forDDR slots
+ on zynqmp platform
+
+usage: ddr-qos [OPTIONS]
+
+ddr-qos -s <val> -t <qos type> -p <port num>
+
+ddr-qos -g -t <qos type> -p <port num>
+
+-s represents set qos value :range[0-0x2]
+
+-g represents get qos value for the given port
+
+-p represents port no[0-6]
+ 0-port0
+ 1-port1r
+ 2-port2r
+ 3-port3
+ 4-port4
+ 5-port5
+ 6-all ports
+
+-v represents version
