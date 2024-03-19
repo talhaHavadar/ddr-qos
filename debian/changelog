@@ -1,3 +1,9 @@
+xlnx-ddr-qos (2023.2-0ubuntu2) noble; urgency=medium
+
+  * debian: add d/p/fix-install-path.patch
+
+ -- Talha Can Havadar <talha.can.havadar@canonical.com>  Tue, 19 Mar 2024 17:57:07 +0900
+
 xlnx-ddr-qos (2023.2-0ubuntu1) noble; urgency=medium
 
   * Initial release.
