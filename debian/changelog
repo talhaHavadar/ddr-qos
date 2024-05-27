@@ -1,3 +1,10 @@
+xlnx-ddr-qos (2023.2-0ubuntu3.24.10.1) oracular; urgency=medium
+
+  * rebuild for oracular
+  * d/gbp.conf: update debian-branch value to `ubuntu/oracular`
+
+ -- Talha Can Havadar <talha.can.havadar@canonical.com>  Mon, 27 May 2024 12:28:42 +0200
+
 xlnx-ddr-qos (2023.2-0ubuntu3) noble; urgency=medium
 
   * d/control: update package description and add Rules-Require-Root: no
