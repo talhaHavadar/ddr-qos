@@ -1,3 +1,9 @@
+xlnx-ddr-qos (2023.2-0ubuntu3.24.10.2) oracular; urgency=medium
+
+  * d/p/001-fix-install-path.patch: forward patch to upstream
+
+ -- Talha Can Havadar <talha.can.havadar@canonical.com>  Mon, 27 May 2024 13:46:31 +0200
+
 xlnx-ddr-qos (2023.2-0ubuntu3.24.10.1) oracular; urgency=medium
 
   * rebuild for oracular
