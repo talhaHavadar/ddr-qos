@@ -1,7 +1,7 @@
 Description: Fix the install path for the binary
 Author: Talha Can Havadar <talha.can.havadar@canonical.com>
-Forwarded: no
-Last-Update: 2024-03-19
+Forwarded: https://github.com/Xilinx/ddr-qos/pull/1
+Last-Update: 2024-05-27
 ---
 This patch header follows DEP-3: http://dep.debian.net/deps/dep3/
 --- a/CMakeLists.txt
