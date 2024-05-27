@@ -1,3 +1,10 @@
+xlnx-ddr-qos (2023.2-0ubuntu3) noble; urgency=medium
+
+  * d/control: update package description and add Rules-Require-Root: no
+  * d/gbp.conf: add upstream-tag customization
+
+ -- Talha Can Havadar <talha.can.havadar@canonical.com>  Mon, 27 May 2024 12:10:11 +0200
+
 xlnx-ddr-qos (2023.2-0ubuntu2) noble; urgency=medium
 
   * debian: add d/p/fix-install-path.patch
