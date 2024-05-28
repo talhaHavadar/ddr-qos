@@ -1,3 +1,10 @@
+xlnx-ddr-qos (2023.2-0ubuntu3.24.10.3) oracular; urgency=medium
+
+  * Initial release to Ubuntu archive (LP: #2067290)
+  * d/copyright: fix lintian warnings and add debian folder into copyright
+
+ -- Talha Can Havadar <talha.can.havadar@canonical.com>  Tue, 28 May 2024 10:34:41 +0200
+
 xlnx-ddr-qos (2023.2-0ubuntu3.24.10.2) oracular; urgency=medium
 
   * d/p/001-fix-install-path.patch: forward patch to upstream
