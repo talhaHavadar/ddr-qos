@@ -11,6 +11,8 @@ Package: xlnx-ddr-qos
 Architecture: any
 Multi-Arch: foreign
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: xmutil (<< 1:1.2.1)
+Replaces: xmutil (<< 1:1.2.1)
 Description: application to set QOS value of DDR slots in ZynqMP platforms
  This Debian binary package enables users to manipulate QOS values of
  DDR slots in ZynqMP platforms including KD240, KV260 and KR260 board families.
